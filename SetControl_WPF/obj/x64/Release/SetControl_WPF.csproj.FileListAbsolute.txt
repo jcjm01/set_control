@@ -1,0 +1,220 @@
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\SetControl_WPF.exe.config
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\SetControl_WPF.exe
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\SetControl_WPF.pdb
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\Change_IP.exe
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\EntityFramework.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\EntityFramework.SqlServer.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\Gma.System.MouseKeyHook.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\QRCoder.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\System.Data.SQLite.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\System.Data.SQLite.EF6.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\System.Data.SQLite.Linq.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\System.Drawing.Common.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\EasyModbus.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\Change_IP.pdb
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\Change_IP.exe.config
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\EntityFramework.xml
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\EntityFramework.SqlServer.xml
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\System.Data.SQLite.xml
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\System.Drawing.Common.pdb
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\System.Drawing.Common.xml
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\EasyModbus.xml
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\x64\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\MyCombinedSolution\bin\release\SetControl_WPF.exe.config
+C:\Users\juan_\source\repos\MyCombinedSolution\bin\release\SetControl_WPF.exe
+C:\Users\juan_\source\repos\MyCombinedSolution\bin\release\SetControl_WPF.pdb
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\SetControl_WPF.exe.config
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\SetControl_WPF.exe
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\SetControl_WPF.pdb
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\EntityFramework.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\Gma.System.MouseKeyHook.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\QRCoder.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\System.Data.SQLite.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\System.Drawing.Common.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\EntityFramework.xml
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\System.Data.SQLite.xml
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\System.Drawing.Common.pdb
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\System.Drawing.Common.xml
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\SetControl_WPF.exe.config
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\SetControl_WPF.exe
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\SetControl_WPF.pdb
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\EntityFramework.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\EntityFramework.SqlServer.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\Gma.System.MouseKeyHook.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\QRCoder.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\System.Data.SQLite.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\System.Data.SQLite.EF6.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\System.Data.SQLite.Linq.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\System.Drawing.Common.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\Xceed.Wpf.AvalonDock.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\Xceed.Wpf.Toolkit.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\EntityFramework.xml
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\EntityFramework.SqlServer.xml
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\System.Data.SQLite.xml
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\System.Drawing.Common.pdb
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\System.Drawing.Common.xml
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\bin\Release\x64\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\obj\x64\Release\SetControl_WPF.csproj.AssemblyReference.cache
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\obj\x64\Release\LoginWindow.baml
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\obj\x64\Release\MainWindow.baml
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\obj\x64\Release\LoginWindow.g.cs
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\obj\x64\Release\MainWindow.g.cs
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\obj\x64\Release\App.g.cs
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\obj\x64\Release\SetControl_WPF_MarkupCompile.cache
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\obj\x64\Release\SetControl_WPF.g.resources
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\obj\x64\Release\SetControl_WPF.Properties.Resources.resources
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\obj\x64\Release\SetControl_WPF.csproj.GenerateResource.cache
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\obj\x64\Release\SetControl_WPF.csproj.CoreCompileInputs.cache
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\obj\x64\Release\SetContr.6190110E.Up2Date
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\obj\x64\Release\SetControl_WPF.exe
+C:\Users\juan_\source\repos\SetControl_WPF\SetControl_WPF\obj\x64\Release\SetControl_WPF.pdb
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\SetControl_WPF.exe.config
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\SetControl_WPF.exe
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\SetControl_WPF.pdb
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\EntityFramework.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\EntityFramework.SqlServer.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\Gma.System.MouseKeyHook.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\QRCoder.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\System.Data.SQLite.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\System.Data.SQLite.EF6.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\System.Data.SQLite.Linq.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\System.Drawing.Common.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\Xceed.Wpf.AvalonDock.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\Xceed.Wpf.Toolkit.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\EntityFramework.xml
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\EntityFramework.SqlServer.xml
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\System.Data.SQLite.xml
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\System.Drawing.Common.pdb
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\System.Drawing.Common.xml
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\SetControl_WPF.csproj.AssemblyReference.cache
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\LoginWindow.baml
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\MainWindow.baml
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\LoginWindow.g.cs
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\MainWindow.g.cs
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\App.g.cs
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\SetControl_WPF_MarkupCompile.cache
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\SetControl_WPF.g.resources
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\SetControl_WPF.Properties.Resources.resources
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\SetControl_WPF.csproj.GenerateResource.cache
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\SetControl_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\SetContr.6190110E.Up2Date
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\SetControl_WPF.exe
+C:\Users\Feiyang M\Downloads\Set_control_WPF-main\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\SetControl_WPF.pdb
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\SetControl_WPF.exe.config
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\SetControl_WPF.exe
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\SetControl_WPF.pdb
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\EntityFramework.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\EntityFramework.SqlServer.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\Gma.System.MouseKeyHook.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\QRCoder.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\System.Data.SQLite.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\System.Data.SQLite.EF6.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\System.Data.SQLite.Linq.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\System.Drawing.Common.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\Xceed.Wpf.AvalonDock.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\Xceed.Wpf.Toolkit.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\EntityFramework.xml
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\EntityFramework.SqlServer.xml
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\System.Data.SQLite.xml
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\System.Drawing.Common.pdb
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\System.Drawing.Common.xml
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\bin\Release\x64\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\SetControl_WPF.csproj.AssemblyReference.cache
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\LoginWindow.baml
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\MainWindow.baml
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\LoginWindow.g.cs
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\MainWindow.g.cs
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\App.g.cs
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\SetControl_WPF_MarkupCompile.cache
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\SetControl_WPF.g.resources
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\SetControl_WPF.Properties.Resources.resources
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\SetControl_WPF.csproj.GenerateResource.cache
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\SetControl_WPF.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\SetContr.6190110E.Up2Date
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\SetControl_WPF.exe
+C:\Users\juan_\OneDrive\Desktop\Set_control_WPF-main\SetControl_WPF\obj\x64\Release\SetControl_WPF.pdb
